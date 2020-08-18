@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">My Res App Full Code</string>
+
+    <string-array name="authors">
+        <item>Pick a Writer</item>
+        <item>Oscar Wilde</item>
+        <item>CS Lewis</item>
+        <item>Bram Stoker</item>
+        <item>Jonathan Swift</item>
+        <item>Samuel Beckett</item>
+    </string-array>
+
+    <string name="pickanauthor">Pick me a writer so I have something to read!!!</string>
+    <string name="whoistheauthor">Who are you going to pick??</string>
+    <string name="defaultquote">Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.
+                                Try again. Fail again. Better again. Or better worse. Fail worse again.
+                                Still worse again. Till sick for good. Throw up for good. Go for good.
+                                Where neither for good. Good and all.
+                                \n— Samuel Beckett</string>
+
+    <string name="wildebook">The Picture of Dorian Gray (1890)</string>
+    <string name="lewisbook">The Lion, the Witch and the Wardrobe (1950)</string>
+    <string name="stokerbook">Dracula (1897)</string>
+    <string name="swiftbook">Gullivers Travels (1726)</string>
+    <string name="beckettbook">Waiting for Godot (1953)</string>
+
+    <string name="wildequote">Those who find ugly meanings in beautiful things are corrupt without being charming.
+                              This is a fault. Those who find beautiful meanings in beautiful things are the cultivated.
+                              For these there is hope. They are the elect to whom beautiful things mean only Beauty</string>
+    <string name="lewisquote">Logic! said the Professor half to himself. Why do they not teach logic at these schools?
+                              There are only three possibilities. Either your sister is telling lies, or she is mad,
+                              or she is telling the truth. You know she does not tell lies and it is obvious that she is
+                              not mad. For the moment then and unless any further evidence turns up, we must assume that
+                              she is telling the truth.</string>
+    <string name="stokerquote">When the Count saw my face, his eyes blazed with a sort of demoniac fury, and he suddenly made
+                               a grab at my throat. I drew away, and his hand touched the string of beads which held the crucifix.
+                               It made an instant change in him, for the fury passed so quickly that I could hardly believe that
+                               it was ever there.</string>
+    <string name="swiftquote">This made me reflect how vain an attempt it is for a man to endeavor doing himself honor among
+                              those who are out of all degree of equality or comparison with him. And yet I have seen the moral
+                              of my own behavior very frequent in England since my return, where a little contemptible varlet,
+                              without the least title to birth, person, wit, or common sense, shall presume to look with importance,
+                              and put himself upon a foot with the greatest persons of the kingdom.</string>
+    <string name="beckettquote">Have you not done tormenting me with your accursed time! It is abominable! When! When! One day, is
+                                that not enough for you, one day he went dumb, one day I went blind, one day we will go deaf, one day
+                                we were born, one day we shall die, the same day, the same second, is that not enough for you? They
+                                give birth astride of a grave, the light gleams an instant, then it is night once more.</string>
+    <string name="next" />
+    <string name="hello_first_fragment" />
+    <string name="previous" />
+    <string name="action_settings" />
+    <string name="first_fragment_label" />
+    <string name="second_fragment_label" />
+
+</resources>
