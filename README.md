@@ -1,7 +1,9 @@
 # MyResourseAppFullCode
 
-![Show Things to Read](Screen Shot 2020-08-18 at 7.08.50 PM.png)
 
-![Select New Author](Screen Shot 2020-08-18 at 7.08.38 PM.png)
+![Welcome Screen](https://github.com/SrilakshmiSripathi/MyResourseAppFullCode/blob/master/Output/Screen%20Shot%202020-08-18%20at%207.09.01%20PM.png)
 
-![](Screen Shot 2020-08-18 at 7.09.01 PM.png)
+![Pick an Irish Writer](https://github.com/SrilakshmiSripathi/MyResourseAppFullCode/blob/master/Output/Screen%20Shot%202020-08-18%20at%207.08.50%20PM.png)
+
+![Results](https://github.com/SrilakshmiSripathi/MyResourseAppFullCode/blob/master/Output/Screen%20Shot%202020-08-18%20at%207.08.38%20PM.png)
+
